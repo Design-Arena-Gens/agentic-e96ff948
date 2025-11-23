@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agentic-e96ff948.vercel.app/sitemap.xml
